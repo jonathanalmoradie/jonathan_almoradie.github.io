@@ -1,0 +1,28 @@
+.navbar {
+  padding-left: 35px;
+  padding-right:35px;
+}
+
+.home-main {
+  font-family: 'Comfortaa', cursive;
+  background: url('home_island.jpg') no-repeat center / cover ;
+  height:75vh;
+  width:100vw;
+}
+
+.welcome-text {
+  font-weight: 600;
+  color: #fff;
+  text-align: center;
+  padding-top: 45vh;
+  text-shadow: 3px 3px 2px #111;
+}
+
+.about-us {
+  height: 25vh;
+  width: 100vw;
+}
+
+.about-us-text {
+
+}
