@@ -5,7 +5,10 @@
 
 .home-main {
   font-family: 'Comfortaa', cursive;
-  background-image: linear-gradient(to bottom, black, white), url('home_island.jpg') no-repeat center / cover ;
+  background-image: linear-gradient(to bottom, black, white), url("home_island.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
   height:75vh;
   width:100vw;
 }
