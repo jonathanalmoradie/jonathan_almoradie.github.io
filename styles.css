@@ -5,7 +5,7 @@
 
 .home-main {
   font-family: 'Comfortaa', cursive;
-  background-image:url('/img/home_island.jpg');
+  background-image:url('/img/home_island.JPG') !important;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
